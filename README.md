@@ -80,7 +80,7 @@ Resistance:
 
 ### Calculation Example
 
-<img src="images/CalculationExample.png" width="300">
+<img src="https://github.com/SujalPatil1616/Resistor-Color-Code-Calculator-App/blob/main/Calculation%20Example.png" width="300">
 
 ---
 
