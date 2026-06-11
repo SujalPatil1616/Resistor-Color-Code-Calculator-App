@@ -76,7 +76,7 @@ Resistance:
 
 ### Home Screen
 
-<img src="images/HomeScreen.png" width="300">
+<img src="https://github.com/SujalPatil1616/Resistor-Color-Code-Calculator-App/blob/main/HomeScreen.png" width="300">
 
 ### Calculation Example
 
